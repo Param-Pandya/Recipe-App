@@ -1,6 +1,6 @@
 # Recipe App
 
-## Overview
+## Overview 
 
 The Recipe Finder App is a simple, yet powerful tool designed to help users discover recipes based on dish names they enter. Leveraging the robust API provided by TheMealDB, our app fetches detailed recipes, including ingredients and cooking instructions, for a wide variety of dishes. Built with HTML, CSS, and JavaScript, it offers a user-friendly interface and a responsive design, ensuring a seamless experience across different devices.
 
