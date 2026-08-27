@@ -6,7 +6,7 @@
 
 </head> 
  
-<body> 
+<body>
 
 <h1 align="center">🍽️ Recipe Finder App</h1>
 
